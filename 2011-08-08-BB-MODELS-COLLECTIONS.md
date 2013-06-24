@@ -126,7 +126,7 @@ Essayez en mode console : tapez `doc = new Doc({ id : '001', title : 'Mon 1er do
 
 ![Alt "bb_01_04.png"](https://github.com/k33g/articles/raw/master/res/bb_01_04.png)
 
-Et du coup vous pouvez auss écrire ceci : `autreDoc = new Doc(doc.toJSON())`
+Et du coup vous pouvez aussi écrire ceci : `autreDoc = new Doc(doc.toJSON())`
 
 ![Alt "bb_01_05.png"](https://github.com/k33g/articles/raw/master/res/bb_01_05.png)
 
